@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  bill_name: MyString
+  account: MyString
+  sum: 1.5
+  invoke: MyString
+  active_record: MyString
+
+two:
+  name: MyString
+  bill_name: MyString
+  account: MyString
+  sum: 1.5
+  invoke: MyString
+  active_record: MyString
